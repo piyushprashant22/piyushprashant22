@@ -21,7 +21,6 @@ Join me as I blend the precision of code with the creativity of design, shaping 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyushprashant22)](https://github.com/anuraghazra/github-readme-stats)
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/piyushprashant22/contributions?format=svg&private=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=piyushprashant22)  
 
